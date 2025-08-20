@@ -1,2 +1,2 @@
 # Vulnerabilities
-collection of CVEs
+Collection of CVEs I have discovered.
